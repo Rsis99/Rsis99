@@ -1,19 +1,4 @@
-<!--## Hi there 👋 -->
-
-<!--
-**Rsis99/Rsis99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   <!--## Hi there 👋 -->
 
 <h1 align="center">Hi 👋, I'm Yurun (Yura) Wang</h1>
 <h3 align="center">PhD Student at Peking University | Urban Science & AI Researcher</h3>
@@ -22,15 +7,17 @@ Here are some ideas to get you started:
 
 
 ### 🔍 About Me
-- 🔭 Currently working on **human mobility modeling, collective intelligence & multi-scale urban systems**  
-- 🤖 Exploring **LLM & Agentic AI applications in urban analytics**  
-- 👯 Open to collaboration on **agentic applications for urban planning & smart cities**  
-- 📝 I regularly write articles on [Medium](https://medium.com/) / [Zhihu](https://zhihu.com/) *(add your link)*  
-- 💬 Ask me about **multi-agent development (LangGraph, ADK, smolagent, etc.)**  
-- ⚙️ **Languages & Tools:** Python, PyTorch, Hive, PostgreSQL, Figma  
-- 🌐 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/) | [Google Scholar](https://scholar.google.com/citations?user=) | [Twitter](https://twitter.com/)  
+- 🔭 Currently working on **human mobility network modeling & multi-scale urban systems**
+- 🤖 Exploring **LLM & Agentic AI applications in urban analytics and planning intelligence**
+- 💬 Skilled at **causal inference, complex network analysis, GNN, multi-agent development (LangGraph, ADK, smolagent, etc.)**
+- 👯 **Founding member** of [Tapnow.ai](https://www.tapnow.ai/) Take a try of our product!
+- ☕ **A Coffee-Fueled Researcher** | **Ideas Worth Spreading**
+- ⚙️ **Languages & Tools:** Python, PyTorch, Hive, PostgreSQL, Figma, GIS
 - 📫 Reach me at **yura_wang@stu.pku.edu.cn**  
-- ☕ Fun fact: **A Coffee-Fueled Researcher**
+<!-- - 🔭 Know more about me & my project? Please visit my [personal blog](https://rsis99.github.io/)  -->
+<!-- - 📝 I regularly write articles on [Medium](https://medium.com/) / [Zhihu](https://zhihu.com/) *(add your link)*    -->
+<!-- - 🌐 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/) | [Google Scholar](https://scholar.google.com/citations?user=) | [Twitter](https://twitter.com/)  -->
+
 
 ---
 
